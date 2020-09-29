@@ -2,10 +2,6 @@
 
 Yashodhan Singh
 
-N16618716
-
-ys2792@nyu.edu
-
 ---
 This repository is a collection of assignments related to NYU's Collaborating Remotely: Build Software From Anywhere Fall 2020 Class.
 
