@@ -1,5 +1,5 @@
 ## NYU Collaborating Remotely: Build Software From Anywhere Assignments
-This repository is a collection of assignments related to NYU's Collaborating Remotely: Build Software From Anywhere Fall 2020 Class.
+This repository is a collection of assignments related to NYU's Collaborating Remotely: Build Software From Anywhere Fall 2020 Class with Professor Evan Korth and Nolan Filter.
 
 #### Assignment 1
 The file [conversations.txt](https://github.com/yashodhan-singh/nyu-collaborating-remotely/blob/master/conversations.txt) displays a pull request with a simple conversation. My classmate Santiago responded to my question in the form of a pull request.
